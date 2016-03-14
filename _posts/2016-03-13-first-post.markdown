@@ -45,7 +45,7 @@ The Game is very basic. Here are some future improvements that, in case the prot
 - Had more mechanics in shoots and targets. Like, bullets can go faster with player movement, or the targets can move.
 - Improve the targets behaviour. When score goes up, target are going to get difficult to shoot. Also, can make them move, to make the game difficult.
 
-Link: http://gamejolt.com/games/prototype-1/133066
+[Link to the Game](http://gamejolt.com/games/prototype-1/133066)
 
 
 #### Prototype 2: Platform collector
@@ -58,5 +58,5 @@ mechanics to the idea, to make it a little more interesting. The game has the fo
 - If the player touches a dead point in the bottom of the screen, game over.
 - If times goes out, game over.
 
-Link: http://gamejolt.com/games/prototype-2/133150
+[Link to the Game](http://gamejolt.com/games/prototype-2/133150)
 
