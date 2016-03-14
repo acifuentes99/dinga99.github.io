@@ -45,6 +45,9 @@ The Game is very basic. Here are some future improvements that, in case the prot
 - Had more mechanics in shoots and targets. Like, bullets can go faster with player movement, or the targets can move.
 - Improve the targets behaviour. When score goes up, target are going to get difficult to shoot. Also, can make them move, to make the game difficult.
 
+Link: http://gamejolt.com/games/prototype-1/133066
+
+
 #### Prototype 2: Platform collector
 
 For the second game, as the first one, I didn't have a clear idea of what can I do. This problem get annoying, with the proximity of the due date, and also the beginning of week 2 of University. So, I standed in my standing desk, and trying to think: "Ok, I have to do something". Started my text editor, opened the music player, and get to open more Phaser examples, search about them, and go on. Finally, a platform game was more comfortable to do. But, I also putted some
@@ -54,4 +57,6 @@ mechanics to the idea, to make it a little more interesting. The game has the fo
 - "Up arrows", that gives the player, a jump boost, making him more efficient when reaching points.
 - If the player touches a dead point in the bottom of the screen, game over.
 - If times goes out, game over.
+
+Link: http://gamejolt.com/games/prototype-2/133150
 
