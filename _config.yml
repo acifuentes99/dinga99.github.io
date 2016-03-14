@@ -9,7 +9,7 @@
 title: dinga99 DevBlog
 email: aecifuentesv@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Blog, where I'm going to wirte about my journey into Videogame development. 
+ DevBlog, where I'm going to write about my journey into Videogame development. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: acifuentes99
