@@ -13,7 +13,9 @@ So, here its the story of developing:
 * The chosen ideas where: A peanut delivery game, an "Operation Game", and a "Rock, paper, scissors" platform.
 * The Developing story for every game, and how the asynchronous factor is applied.
 
-### [Game 3: Peanut Delivery] (http://gamejolt.com/games/prototype-3-peanut-delivery/134475)
+
+
+### Game 3: Peanut Delivery 
 
 The game consist of delivering peanuts to people in a park. The player uses a peanut train to reach the customers. The customers are going to appear randomly in the screen. And the player had only a capacity of 10 peanuts to deliver, but can charge the storage in the "peanut reserve", in the lower left part of the Screen.
 The asynchronous part: For every recharge of peanut, in a number between 2 or 8 peanut delivered, a random queen will appear on screen. She will move fast, but if the player reaches her, will be awarded with a bonus in the score, and time left.
@@ -30,7 +32,8 @@ The new part on this game, it's the running time out, and the Spacebar turbo. Th
 [Link to the Game](http://gamejolt.com/games/prototype-3-peanut-delivery/134475)
 
 
-### [Game 4: Save the Alien] (http://gamejolt.com/games/protoype-4-save-the-alien/134819)
+
+### Game 4: Save the Alien 
 
 The objective, it's try to maximize the life of the alien, bringing him medicine to the selected areas. The game will highlight some are in particular, and if the player drops the ball there, will be award with a bonus.
 
@@ -44,7 +47,8 @@ This game, was not as easy as I thought it's going to be. The drag and drop mech
 [Link to the Game](http://gamejolt.com/games/protoype-4-save-the-alien/134819)
 
 
-### [Game 5: Monster Rock, Paper, Scissors] (http://gamejolt.com/games/prototype-5-monster-rps/134820)
+
+### Game 5: Monster Rock, Paper, Scissors 
 
 This it's an endless game. The objective it play rock, paper & scissors with the other monsters that appear on the screen. You have to reach them. And also, Some bonuses will be appearing on the screen, to maintain the overall health of the player.
 
@@ -61,6 +65,7 @@ This game it's the same as game 3!!, but that was my intention, because the impo
 The bonuses appear as the player received less than 60 HP down from a battle, and also if the health it's down for 50 (it's like an "final effort" of the monster). So, it had the Asynchronous factor, that depends of the life of the player. Finally, the player has the option to retire from battles. But, 40 HP will be subtracted. So, the player had a lot of tools to make an strategy.
 
 [Link to the Game](http://gamejolt.com/games/prototype-5-monster-rps/134820)
+
 
 
 ### Other ideas
