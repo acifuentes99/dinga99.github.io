@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Prototypes - Next Steps"
+date:   2016-03-28 16:32:20 -0300
+---
+
+
+- !Estoy listo con los Prototipos iniciales!. Ahora es tiempo de elegir algunos de ellos para continuar con el desarollo. Prueben los juegos, y si quieren pueden señalarme tips o ideas de las cuales puedo progresar. (Me intersa que solo lo juegen, no necesariamente otros factores, para tener estadisticas).
+- I'm ready with the initial Prototypes for the game course!. Now it's time to select some of them, to continue the developing of them. I ask you to try these games, and if you want to give me some feedback, welcome!, but isn't necessary. (The statics of gaming is what interest me).
+
+### Games/Prototypes
+
+#### Game 1: Shoot the targets
+
+![alt tag](https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/300/133066-crop0_66_700_460-hc8iy6jb.jpg)
+
+[Link to the game](http://gamejolt.com/games/prototype-1/133066)
+
+#### Game 2: Grab the balls
+
+![alt tag](https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/300/133150-crop0_52_877_546-2dvwawgb.jpg)
+
+[Link to the game](http://gamejolt.com/games/prototype-2/133150)
+
+#### Game 3: Peanut delivery
+
+![alt tag](https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/300/134475-crop29_223_666_581-zxi6pafh.jpg)
+
+[Link to the game](http://gamejolt.com/games/prototype-3-peanut-delivery/134475)
+
+#### Game 4: Save the Alien
+
+![alt tag](https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/300/134819-crop0_77_650_443-awbuaww5.jpg)
+
+[Link to the game](http://gamejolt.com/games/protoype-4-save-the-alien/134819)
+
+#### Game 5: Monster RPS
+
+![alt tag](https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/300/134820-crop0_76_636_433-5fwcdsjf.jpg)
+
+[Link to the game](http://gamejolt.com/games/prototype-5-monster-rps/134820)
+
