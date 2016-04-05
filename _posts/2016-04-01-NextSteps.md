@@ -19,7 +19,9 @@ So, it's clear that the first prototype it's winning. But considering the follow
 
 As the developer, I had to choose one of the games to do the improvements. As a personal preference, I want to choose the 5th game, but because of the visits and plays, it should be the first.
 
-So, I choose to improve some features of the first and fifth game, and combine the two games into a new game. It will have the following improvements:
+So, I choose to improve some features of the first and fifth game, and combine the two games into a new game. It will have the following improvements.
+
+### Game ideas
 
 - Better behaviour of the opponents, now they can have different probabilities of choosing rock, paper or scissors.
     - In this thing, I changed the system of the "rock paper scissors", into a "element battle". Instead of three options, now the player has to choose between "fire, water of leaf". Fire defeats Leaf, but has weakness versus water..., and so on. This change of gameplay, that follows the system of rock paper scissors, reduces the friction between the player and the game, adding more dynamics.
@@ -33,6 +35,30 @@ Now, the game consists of the following:
 - First, the player has to create a character. Has to choose between three element, one Primary, and one Secondary. The Primary, is going to define a type of attack, and also (and important), the type of armor that it's going to have. That is, because depending of this factor, the player will have an advantage, or weakness versus certain types of enemies.
 - Next, the game starts. The player will see five enemies in all the map. These enemies, are going to move around the map, but they'll not follow the player to attack him (not yet, but it's going to be implemented). To win score, and going forward in the game, the player has to defeat the more possible number of enemies in the map.
 - The bonuses (health and bullet), are going to display in a random part of the map. The player has to get these times, to survive more in the game.
+
+### Using game design tools and frameworks
+
+The idea of the session, it's to now use a framework, to determinate the gameplay and aspect that are going to be implemented. This tool, it's used to define elements like the player feelings, the behaviour and goals of enemies, and more things in the way. I'm going to use two frameworks, that are described in the following article of Gamasutra [(Link)](http://www.gamasutra.com/view/feature/187777/game_design_tools_for_collaboration.php?print=1).
+
+#### Token Based Model
+
+The idea, is to define the game fundamental elements as tokens. There are described in a matrix, where the cell represent the interaction. The X are obviously, no action. In the Element Rampage game, this it's the matrix:
+
+![alt_tag](https://dl.dropboxusercontent.com/u/50497061/img1.png)
+![alt_tag](https://dl.dropboxusercontent.com/u/50497061/img3.png)
+
+
+#### Game Layers
+
+The difference with the previous one, is now decompose the game into layers. This add other points of view to the game, like the gamer feelings, emphasis on goals, and more. This is the model used in the game:
+
+![alt_tag](https://dl.dropboxusercontent.com/u/50497061/img2.png)
+
+### Conclusion
+
+The new game, look more like a playable game than the others, because now have more dynamics in the gameplay. Therefore, some implementations are still missing, but with the video game course running during the weeks, I'm going to put more of them.
+The framework are a great idea to discover the topic of the game that can be missing. With the second one (Game Layers), I realize that part of the "player feeling" it's not clearly defined. So, in the next "developing sessions", this elements are going to be covered more in depth.
+
 
 [Link of the game](http://gamejolt.com/games/element-rampage/138566)
 
