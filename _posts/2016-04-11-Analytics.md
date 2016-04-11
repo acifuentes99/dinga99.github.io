@@ -4,6 +4,10 @@ title:  "Using Analytics"
 date:   2016-04-11 12:11:20 -0300
 ---
 
+![alt tag](https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/300/138566-crop8_160_596_491-a4kthuxi.jpg)
+
+[Link of the game](http://gamejolt.com/games/element-rampage/138566)
+
 The last week, now in the course, I have two objectives to accomplish:
 
 * Analytics on the game, to see what the user are doing
@@ -37,6 +41,17 @@ The objective of using these variables are:
 * See how much the player plays the game
 * See the behaviour of the player during the session. That's why the previous events are tracked. This is information to get a better game experience.
 * Finally, see how Google Analytics works, and learn more about how to use the features of the tool, to get the best results.
+
+For example: We can get a view of how many time, the player do more than 0.6 of the total damage of the battle. If that is done, a bullet it's going to be spawned on the map. So, using analytics of people who played the game. The results are the following:
+
+![alt tag](https://dl.dropboxusercontent.com/u/50497061/Captura%20de%20pantalla%20de%202016-04-11%2015-59-14.png)
+
+So, the number of sessions of people who are not registered to Gamejolt, in April 9 to 11, are 9. For them, there are the results of the chosen variables.
+
+Now, we can say, that per session, 3.89 of 10.89 enemies, received more than 0.6 of the total damage (Damage variable, and Kills variables).
+
+With that data, some interesting conclusions of how the game it's working can be made.
+
 
 
 ### Compulsion loop
