@@ -57,4 +57,5 @@ As the game is going forward in the development..., now some bugs started to app
 
 * Going up-left or down-left while shooting doesn't work. (Going up-right and down-right works).
 * Starting at the third wave, the enemies stop to shoot the player, or do that less frequently. That could be because of resources of the framework, or that could be some function not used at the right way.
+* Enemies when following the player, start to stack one on another, looking like there's only 1 enemy, but are more than 1.
 
